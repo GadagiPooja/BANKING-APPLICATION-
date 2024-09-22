@@ -2,6 +2,8 @@ package com.example.Banking.Application.Dto;
 
 import lombok.Data;
 
+
+
 @Data
 public class AccountDto {
 	private Long id;
